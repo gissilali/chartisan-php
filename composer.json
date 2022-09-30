@@ -9,7 +9,6 @@
       "email": "soc@erik.cat"
     }
   ],
-  "minimum-stability": "dev",
   "require": {
     "php": ">=7.4"
   },
